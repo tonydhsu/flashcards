@@ -26,11 +26,12 @@ This project allows the user to play a flashcards game through the terminal!  Th
 
 ## Install
 Clone this [repo](https://github.com/tonydhsu/flashcards)
-run `npm install`
+
+run `npm install` in the terminal
 
 cd into the flashcards directory
 
-run `node index.js`
+run `node index.js` in the terminal
 
 Play the Game!  
 
